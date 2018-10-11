@@ -1,2 +1,2 @@
 file1
-second line
+second line and stuff
