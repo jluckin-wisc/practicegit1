@@ -1,2 +1,3 @@
 file1
 second line and stuff
+Third line and Stuff
